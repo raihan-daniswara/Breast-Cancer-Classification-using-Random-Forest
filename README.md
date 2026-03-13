@@ -8,7 +8,7 @@ Analisis dilakukan mulai dari pemahaman dataset, data cleaning, exploratory data
 
 ---
 
-## Project Objectives
+## 📌 Project Objectives
 
 Tujuan dari project ini adalah:
 
@@ -19,12 +19,12 @@ Tujuan dari project ini adalah:
 
 ---
 
-## Dataset
+## 📊 Dataset
 
 Sumber dataset:
 https://data.mendeley.com/datasets/7jhddnpz2p/1
 
-Dataset berisi berbagai variabel kesehatan seperti:
+Dataset berisi berbagai variabel seperti:
 
 * Age
 * Menarche age
@@ -46,7 +46,7 @@ Dataset memiliki sekitar **1686 data pasien** dengan dua kelas:
 
 ---
 
-## Technologies Used
+## 🛠 Technologies Used
 
 Project ini menggunakan beberapa library Python berikut:
 
