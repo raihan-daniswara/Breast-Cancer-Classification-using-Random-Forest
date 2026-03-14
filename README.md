@@ -1,6 +1,6 @@
 # Breast Cancer Classification using Random Forest
 
-## 🎯 Project Overview
+## Project Overview
 
 Project ini merupakan implementasi Machine Learning menggunakan algoritma Random Forest untuk mengidentifikasi faktor risiko kanker payudara berdasarkan dataset kesehatan pasien.
 
@@ -8,7 +8,7 @@ Analisis dilakukan mulai dari pemahaman dataset, data cleaning, exploratory data
 
 ---
 
-## 📌 Project Objectives
+## Tujuan Project
 
 Tujuan dari project ini adalah:
 
@@ -19,7 +19,7 @@ Tujuan dari project ini adalah:
 
 ---
 
-## 📊 Dataset
+## Dataset
 
 Sumber dataset:
 https://data.mendeley.com/datasets/7jhddnpz2p/1
@@ -46,7 +46,7 @@ Dataset memiliki sekitar **1686 data pasien** dengan dua kelas:
 
 ---
 
-## 🛠 Technologies Used
+## Teknologi yang Digunakan
 
 Project ini menggunakan beberapa library Python berikut:
 
